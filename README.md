@@ -22,13 +22,13 @@
   <img src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat">
   <img src ="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&style=flat">
   <br>
-  <img src ="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white&style=flat">
+  <img src ="https://img.shields.io/badge/Pop%20OS-0CC1F3?style=for-the-badge&logo=popos&logoColor=white&style=flat">
 
 </p>
 
 <!--git stats -->
 <h3>Stats</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willdcoelho&show_icons=true&theme=radical" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willdcoelho&show_icons=true&theme=react" align = "center"/>
 </p>
 
