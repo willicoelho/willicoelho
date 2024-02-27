@@ -29,6 +29,6 @@
 <!--git stats -->
 <h3>Stats</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willdcoelho&show_icons=true&theme=react" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-coelho&show_icons=true&theme=react" align = "center"/>
 </p>
 
