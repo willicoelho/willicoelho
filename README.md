@@ -19,7 +19,7 @@ Hi, I'm William — a developer turning data into insights. I'm currently diving
 - 🛠 Focused on building reproducible and well-documented data workflows
 
 🚀Projects
-- 📘 [Amazon Top100 Books Dashboard](https://github.com/willicoelho/amazon-books-dashboard) – Streamlit + Pandas + CSV (Beginner project)
+- 📘 [Amazon Top100 Books Dashboard](https://amazon-books-dashboard.streamlit.app/) – Streamlit + Pandas + CSV (Beginner project)
 - 🛠️ More coming soon...
 
 <h2>🧰 Languages and Tools</h2>
