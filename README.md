@@ -1,34 +1,48 @@
-<!--my banner :) -->
- <img height="450px" width="1000px"  src ="https://github.com/willdcoelho/willdcoelho/assets/35871638/ac857096-9b75-4dfa-bb95-ca7cdb602740">
-<h3>Hey there 👋🏽</h3>
-<p>
-  I'm William Coelho. I hold a Bachelor's degree in Computer Science and work as a fullstack developer 🧑🏽‍💻. I'm a tech enthusiast, always keeping an eye on its evolution and how it impacts our lives 💻🌎.
+<!-- Banner -->
+<img src="https://github.com/user-attachments/assets/518fd5d5-22b1-45f9-a0b0-3900732a47ba" width="100%" alt="Banner">
 
-- 🔎 Currently, I'm working with Angular, Laravel, Microservices, and Automated Testing.
-- 📖 I'm studying to deepen my knowledge and give back to the open-source community.
-- 🐧 Proud Linux enthusiast ❣
-- 👨🏽‍💻 Getting back to developing personal projects on Github🐙🐈‍⬛
-</p>
-<!-- languages and tools badges -->
-<h3 align="left">Languages and Tools:</h3>
+Hi, I'm William — a developer turning data into insights. I'm currently diving into Data Engineering, focusing on clean, reproducible workflows and sharing what I learn along the way.
+
+<h2>🧭 Currently</h2>
+
+- 🎯 Transitioning to Data Engineering
+- 💡 Passionate about automation, learning, and sharing knowledge
+- 📌 Currently deepening my skills in Python, Pandas, and AWS
+- 📚 Actively working on personal data projects and learning in public
+
+<h2>🚀 About me</h2>
+
+- 💻 Former Fullstack Developer with experience in Angular, Laravel & Microservices
+- 🔄 Transitioning to the Data Engineering field
+- 🧠 Background in Computer Science
+- 🐧 Linux enthusiast & open-source supporter
+- 🛠 Focused on building reproducible and well-documented data workflows
+
+🚀Projects
+- 📘 Book Review Dashboard – Streamlit + Pandas + CSV (Beginner project)
+- 🛠️ More coming soon...
+
+<h2>🧰 Languages and Tools</h2>
 <p align="left">
-  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat">
-  <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat">
-  <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat">  
-  <img src ="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&style=flat">
- <br>
-  <img src ="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&style=flat">
-  <img src ="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=flat">
-  <img src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat">
-  <img src ="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&style=flat">
-  <br>
-  <img src ="https://img.shields.io/badge/Pop%20OS-0CC1F3?style=for-the-badge&logo=popos&logoColor=white&style=flat">
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
 </p>
 
-<!--git stats -->
-<h3>Stats</h3>
+<h2>📈 GitHub Stats</h2>
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willicoelho&show_icons=true&theme=react" align = "center"/>
-</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=willicoelho&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/willicoelho?label=Follow&style=social)
+
+💬 Let's collaborate on data-driven projects — or just say hi on [LinkedIn](https://linkedin.com/in/williamcoelho)!
+
+
+
+
+
+
 
