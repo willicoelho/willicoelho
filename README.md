@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/user-attachments/assets/518fd5d5-22b1-45f9-a0b0-3900732a47ba" width="100%" alt="Banner">
+<img src="https://github.com/user-attachments/assets/bb219a1a-94c0-456d-8348-3d468bbcf168" width="100%" alt="Banner">
 
 Hi, I'm William — a developer turning data into insights. I'm currently diving into Data Engineering, focusing on clean, reproducible workflows and sharing what I learn along the way.
 
