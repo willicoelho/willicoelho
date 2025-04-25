@@ -3,39 +3,50 @@
 
 
 
-<h3>🧭 About me</h3>
+### Hi there, I'm William Coelho 👋
 
-Hi, I'm William — a developer turning data into insights. I'm currently diving into Data Engineering, focusing on clean, reproducible workflows and sharing what I learn along the way.
+🚀 **Aspiring Data Engineer | Former Fullstack Developer**  
+🔍 Passionate about building data workflows, extracting insights, and solving real-world problems with code.
 
-- 💻 Former Fullstack Developer with experience in Angular, Laravel & Microservices
-- 🧠 Background in Computer Science
-- 🎯 Transitioning to Data Engineering
-- 💡 Passionate about automation, learning, and sharing knowledge
-- 📌 Currently deepening my skills in Python, Pandas, and AWS
-- 📚 Actively working on personal data projects and learning in public
+---
 
-<h3>🚀Projects</h3>
+### 🔧 Current Focus
+- Transitioning to Data Engineering
+- Exploring data analysis, data pipelines, and cloud technologies
+- Building hands-on projects to grow my portfolio
 
-- 📘 [Amazon Top100 Books Dashboard](https://github.com/willicoelho/amazon-books-dashboard) – Streamlit + Pandas + CSV (Beginner project)
-- 🛠️ More coming soon...
+---
 
-<h3>🧰 Languages and Tools</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-</p>
+### 🛠️ Tools & Technologies
+**Languages**: Python, SQL, JavaScript, PHP  
+**Data Stack**: Pandas, Plotly, MySQL, Streamlit
+**Cloud & DevOps**: AWS (in progress), Docker, Git, GitHub
 
-<h2>📈 GitHub Stats</h2>
+---
+### 📌 Recent Project
+**Amazon Books Dashboard** — A Streamlit web app analyzing Amazon's 2023 bestselling books using pandas, Plotly, and SQL.  
+📊 [View Live App](https://amazon-books-dashboard.streamlit.app) • [View on GitHub](https://github.com/willicoelho/amazon-books-dashboard)
+
+---
+
+### 🌱 Currently Learning
+- Python for Data Science
+- Cloud Fundamentals (AWS)
+- Building Data Pipelines
+---
+
+### 📬 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/williamcoelho/) • [GitHub](https://github.com/willicoelho)
+
+Always open to networking, feedback, and collaborations!
+
+---
+
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willicoelho&show_icons=true&theme=react" align = "center"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=willicoelho&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/willicoelho?label=Follow&style=social)
-
-💬 Let's collaborate on data-driven projects — or just say hi on [LinkedIn](https://linkedin.com/in/williamcoelho)!
 
 
 
