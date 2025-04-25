@@ -3,26 +3,21 @@
 
 Hi, I'm William — a developer turning data into insights. I'm currently diving into Data Engineering, focusing on clean, reproducible workflows and sharing what I learn along the way.
 
-<h2>🧭 Currently</h2>
+<h3>🧭 About me</h3>
 
+- 💻 Former Fullstack Developer with experience in Angular, Laravel & Microservices
+- 🧠 Background in Computer Science
 - 🎯 Transitioning to Data Engineering
 - 💡 Passionate about automation, learning, and sharing knowledge
 - 📌 Currently deepening my skills in Python, Pandas, and AWS
 - 📚 Actively working on personal data projects and learning in public
 
-<h2>🚀 About me</h2>
+<h3>🚀Projects</h3>
 
-- 💻 Former Fullstack Developer with experience in Angular, Laravel & Microservices
-- 🔄 Transitioning to the Data Engineering field
-- 🧠 Background in Computer Science
-- 🐧 Linux enthusiast & open-source supporter
-- 🛠 Focused on building reproducible and well-documented data workflows
-
-🚀Projects
 - 📘 [Amazon Top100 Books Dashboard](https://amazon-books-dashboard.streamlit.app/) – Streamlit + Pandas + CSV (Beginner project)
 - 🛠️ More coming soon...
 
-<h2>🧰 Languages and Tools</h2>
+<h3>🧰 Languages and Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
