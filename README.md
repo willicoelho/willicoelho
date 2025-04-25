@@ -1,9 +1,11 @@
 <!-- Banner -->
 <img src="https://github.com/user-attachments/assets/bb219a1a-94c0-456d-8348-3d468bbcf168" width="100%" alt="Banner">
 
-Hi, I'm William — a developer turning data into insights. I'm currently diving into Data Engineering, focusing on clean, reproducible workflows and sharing what I learn along the way.
+
 
 <h3>🧭 About me</h3>
+
+Hi, I'm William — a developer turning data into insights. I'm currently diving into Data Engineering, focusing on clean, reproducible workflows and sharing what I learn along the way.
 
 - 💻 Former Fullstack Developer with experience in Angular, Laravel & Microservices
 - 🧠 Background in Computer Science
